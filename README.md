@@ -33,8 +33,8 @@
 Clone this repository to access all vulnerability walkthroughs and exploit examples:
 
 ```bash
-git clone https://github.com/your-username/bWAPP-Vulnerability-Exploitation.git
-cd bWAPP-Vulnerability-Exploitation
+https://github.com/zsocity/bwaap-documentation.git
+cd bwaap-documentation
 ```
 
 For a complete list of vulnerabilities and guides, check out the [Documentation](https://link-to-documentation.com).
