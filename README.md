@@ -33,7 +33,7 @@
 Clone this repository to access all vulnerability walkthroughs and exploit examples:
 
 ```bash
-https://github.com/zsocity/bwaap-documentation.git
+git clone https://github.com/zsocity/bwaap-documentation.git
 cd bwaap-documentation
 ```
 
